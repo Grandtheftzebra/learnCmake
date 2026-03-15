@@ -5,12 +5,9 @@
 
 int main()
 {
-
 	PL::AverageProfiler profiler;
 
-
 	print();
-
 
 	std::cin.get();
 	return 0;

@@ -10,5 +10,6 @@ int main()
 	print();
 
 	std::cin.get();
+
 	return 0;
 }

@@ -6,9 +6,7 @@
 
 int main()
 {
-	
 	print();
-
 
 	std::ifstream file(RESOURCES_PATH "file.txt");
 	
@@ -19,6 +17,7 @@ int main()
 
 
 	std::cin.get();
+
 	return 0;
 }
 
